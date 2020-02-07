@@ -1,0 +1,14 @@
+{
+  "name": "steem-monitoring",
+  "version": "0.0.0",
+  "description": "SteemMonitoring",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dsteem": "^0.11.3",
+    "mocha": "^7.0.1"
+  }
+}
