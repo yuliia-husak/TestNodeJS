@@ -9,6 +9,6 @@
   "dependencies": {
     "cron": "^1.8.2",
     "dsteem": "^0.11.3",
-    "mocha": "^7.0.1"
+    "mocha": "^10.2.0"
   }
 }
